@@ -24,7 +24,7 @@ Some of the following steps will be followed during the course of the project.
 3. Feature Extraction:
 
 - Statistical features
-- TF – IDF
+- TF–IDF
 
 4. Methods of Model Building:
 
